@@ -1,0 +1,5 @@
+#### $\thm$ – Hilbert's Finiteness Theorem for Invariants
+Let $k$ be a field, and $R$ be a [[Polynomial Ring|polynomial ring]] over $k$. Let $G$ be a group [[Group Action|acting]] $k$-linearly on $R$. Assume that $G$ is finite and that the [[Ring Characteristic|characteristic]] of $k$ does not divide $|G|$, or more generally, that $R^G$ is a [[Direct Summand|direct summand]] of $R$. Then $R^G$ is a [[Algebra Finite|finitely generated]] $k$-[[Algebra|algebra]].
+
+##### *Proof.*
+Since $G$ acts linearly on $R$, $R^G$ is an $\N$-graded subring of $R$ with $R_0=k$. Since $R^G$ is a direct summand of $R$, $R^G$ is noetherian by \Cref{direct summand Noetherian}. By our characterization of noetherian graded rings in \Cref{characterization of noetherian graded rings}, $R^G$ is finitely generated over $R_0=k$.

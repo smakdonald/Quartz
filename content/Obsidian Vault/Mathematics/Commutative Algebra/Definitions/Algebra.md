@@ -1,0 +1,2 @@
+#### $\defn$ – Algebra
+Given a [[Ring|ring]] $R$, an $R$-*algebra* is a ring $S$ equipped with a ring [[Homomorphism|homomorphism]] $\phi: R \to S$. This defines an $R$-[[Module|module]] structure on $S$ given by *restriction of scalars*: for each $r\in R$ and $s\in S$, $rs :=  \phi(r)s$. This $R$-module structure on $S$ is [[Compatible with Addition & Multiplication|compatible]] with the internal multiplication of $S$ i.e., $$r(st)=(rs)t=s(rt) \text{ for all } r\in R, s, t\in S.$$We will call $\phi$ the *structure homomorphism* of the $R$-algebra $S$.

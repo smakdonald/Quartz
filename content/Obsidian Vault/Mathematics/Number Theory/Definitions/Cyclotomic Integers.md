@@ -1,0 +1,3 @@
+#### $\defn$ – Cyclotomic Integers
+For a [[Mathematics/Number Theory/Definitions/Natural Numbers|natural number]] $n$, we denote by $\z^n$ the [[Root of Unity|primitive]] $n\th$ [[Root of Unity|root of unity]] $\z^n = e^{\frac{2\pi i}{n}}$, or just $\z$  when the $n$ is fixed or unambiguous. The $n\th$ *ring of cyclotomic integers* is the [[Ring|ring]] 
+$$\Z[\z_{n} ] = \{a_{0} + a_{1}\z_{n} + a_{2}\z^{2}_{n} + \cdots + a_{n} \z^{n-1}_{n} : a_{i} \in\Z, 0 \leq i \leq n - 1\}.$$

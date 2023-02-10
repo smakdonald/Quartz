@@ -1,0 +1,3 @@
+#### $\defn$ – Union
+Let $A$ and $B$ be [[Set|sets]]. The *union* of $A$ and $B$, denoted $A\cup B$, is the set defined by$$A\cup B=\{x|x\in A\text{ or }x\in B\}$$
+Let $A$ be the family of sets *indexed* by $I$. The [[Union|union]] of the sets in $A$, denoted $\bigcup_{X\in A}X$ , is defined as follows. If $A\neq\es$, then $$\bigcup_{X\in A}X=\{x|x\in A_i\text{ for some } A_{i}\in A\};$$if $A=\es$, then $\bigcup_{X\in A}X=\es$. 

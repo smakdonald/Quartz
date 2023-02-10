@@ -1,0 +1,2 @@
+#### $\defn$ – Coordinate Ring
+Given an [[Affine Variety|affine variety]] $W \subseteq \A^n_k$, the *coordinate ring* of $W$, written $A(W)$ is the $k$-[[Algebra|algebra]] $$A(W) = \frac{k[\xdots]}{I(W)}.$$Some authors denote this as $k[W]$ instead.

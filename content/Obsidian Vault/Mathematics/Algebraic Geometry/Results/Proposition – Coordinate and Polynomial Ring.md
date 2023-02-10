@@ -1,0 +1,2 @@
+#### $\prop$ – Coordinate and Polynomial Ring
+For any field $k$ and any affine variety $W \subseteq \A^n_k$, the ring $A(W)$ is isomorphic to the ring of polynomial functions from $W$ to $\A^1_k = k$ (i.e., those functions from $W$ to $k$ that may be represented by an element of $k[x_1, \dots, x_n]$ --- it forms a ring using addition and multiplication in $k$).

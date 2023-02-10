@@ -1,0 +1,3 @@
+#### $\defn$ – Intersection
+Let $A$ and $B$ be [[Set|sets]]. The *intersection* of $A$ and $B$, denoted $A\cap B$, is the set defined by$$A\cap B=\{x|x\in A\text{ and }x\in B\}$$
+Let $A$ be the [[Family of Sets|family of sets]] *indexed* by $I$. The [[Intersection|intersection]] of the sets in $A$, denoted $\bigcap_{X\in A}X$ , is defined as follows. If $A\neq\es$, then $$\bigcap_{X\in A}X=\{x|x\in A_i\text{ for all } A_{i}\in A\};$$if $A=\es$, the $\bigcap_{X\in A}X$ is not defined. 

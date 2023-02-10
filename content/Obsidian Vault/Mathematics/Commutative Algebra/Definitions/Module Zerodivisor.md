@@ -1,0 +1,2 @@
+#### $\defn$ – Module Zerodivisor
+Let $M$ be an $R$-[[Module|module]]. An element $r \in R$ is a *zerodivisor* on $M$ if $rm = 0$ for some nonzero $m \in M$. We denote the set of zerodivisors of $M$ by $\mathcal{Z}(M)$.

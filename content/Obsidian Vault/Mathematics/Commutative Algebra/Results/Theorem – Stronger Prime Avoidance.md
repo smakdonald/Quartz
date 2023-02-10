@@ -1,0 +1,8 @@
+#### $\thm$ – Stronger Prime Avoidance
+Let $R$ be a ring, $P_1, \ldots, P_n$ [[Prime Ideal|prime ideals]], $x \in R$ and $I$ be an ideal in $R$. If $(x) + I \not\subseteq P_i$ for each $i$, then there exists $y \in J$ such that $$x + y \notin \bigcup_{i=1}^n P_i.$$
+##### *Proof.*
+We proceed by induction on $n$. When $n=1$, if every element of the form $x+y$ with $y \in R$ is in $P= P_1$, then multiplying by $r \in R$ we conclude that every $rx + y \in P$, meaning $(x) + I \subseteq P$. 
+
+Now suppose $n>1$ and that we have shown the statement for $n-1$ primes. If $P_i \subseteq P_j$ for some $i \neq j$, then we might as well exclude $P_i$ from our list of primes, and the statement follows by induction. So assume that all our primes $P_i$ are incomparable.
+
+If $x \notin P_i$ for all $i$, we are done, since we can take $x+0$ for the element we are searching for. So suppose $x$ is in some $P_i$, which we assume without loss of generality to be $P_n$. Our induction hypothesis says that we can find $y \in I$ such that $x+y \notin P_1 \cup \cdots \cup P_{n-1}$. If $x+y \notin P_n$, we are done, so suppose $x+y \in P_n$. Since we assumed $x \in P_n$, we must have $I \not\subseteq P_n$, or else we would have had $(x) + I \subseteq P_n$. Now $P_n$ is a prime ideal that does not contain $P_1, \ldots, P_{n-1}$, nor $I$, so $$P \not\supseteq I P_1 \cdots P_{n-1}.$$Choose $z \in I P_1 \cdots P_{n-1}$ not in $P_n$. Then $x+y+z \notin P_n$, since $z \notin P_n$ but $x+y \in P_n$. Moreover, for all $i<n$ we have $x+y+z \notin P_i$, since $z\in P_i$ and $x+y \notin P_i$.

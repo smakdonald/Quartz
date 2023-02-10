@@ -1,0 +1,4 @@
+#### $\defn$ – Integrally Closed
+Consider an an [[Inclusion Map|inclusion]] of rings $A \subseteq R$. The *integral closure* of $A$ in $R$ is the set of elements in $R$ that are [[Integral Element|integral]] over $A$. We say $A$ is *integrally closed* in $R$ if $A$ is its own integral closure in $R$. The integral closure of a [[Integral Domain|domain]] $R$ in its [[Field of Fractions|field of fractions]] is usually denoted by $\overline{R}.$
+
+The *integral closure* of $I$ in $R$ is the set of elements of $R$ that are integral over $I$, denoted $\overline{I}$. Similarly, we write $\overline{I}^S$ for the integral closure of $I$ in $S$.

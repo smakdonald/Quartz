@@ -1,0 +1,2 @@
+#### $\defn$ – Equivalence Class
+Let $A$ be a non-empty [[Set|set]], and let $\sim$ be an [[Equivalence Relation|equivalence]] [[Mathematics/Foundations/Definitions/Relation|relation]] on $A$. The [[Relation Class|relation classes]] of $A$ with respect to $\sim$ are called *equivalence classes*.

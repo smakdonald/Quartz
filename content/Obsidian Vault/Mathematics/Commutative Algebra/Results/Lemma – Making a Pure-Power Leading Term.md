@@ -1,0 +1,5 @@
+#### $\lem$ – Making a Pure-Power Leading Term
+Let $A$ be a domain, $R=A[x_1,\dots,x_n]$, and let $f\in R$ be a polynomial of [[Polynomial Degree|degree]] at most $N$. The $A$-[[Algebra|algebra]] automorphism of $R$ given by $$\phi(x_i)=x_i + x_n^{N^{n-i}} \textrm{ for } i<n \quad \textrm{ and } \quad \phi(x_n)=x_n$$maps $f$ to a polynomial that, viewed as a polynomial in $x_n$ with coefficients in $A[x_1,\dots,x_{n-1}]$, has leading term $d x_n^a$ for some $d\in A$ and $a\in \N$.
+ 
+##### *Proof.*
+The map $\phi$ sends a monomial term $d x_1^{a_1} \cdots x_n^{a_n}$ to a polynomial with unique highest degree term $d x_n^{a_1 N^{n-1} + a_2 N^{n-2} + \cdots + a_{n-1} N + a_n}$. For each of the monomials $d x_1^{a_1} \cdots x_n^{a_n}$ in $f$ with nonzero coefficient $d \neq 0$, we must have each $a_i \leqslant N$, so the map $$(a_1,\dots,a_n) \mapsto a_1 N^{n-1} + a_2 N^{n-2} + \cdots + a_{n-1} N + a_n$$ is injective when restricted to the set of exponent tuples of $f$. Therefore, none of the terms can cancel. We find that the leading term is of the promised form.

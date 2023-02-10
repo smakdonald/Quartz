@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "interfaceFontFamily": "Times New Roman",
+  "enabledCssSnippets": [
+    "latex"
+  ],
+  "translucency": true,
+  "cssTheme": "",
+  "baseFontSize": 17,
+  "theme": "obsidian"
+}

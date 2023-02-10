@@ -1,0 +1,2 @@
+#### $\defn$ – Index
+If [[Order|finite]] [[Group|groups]], the common number of left or right [[Coset|cosets]] of a [[Subgroup|subgroup]] $H$ in a group $G$ is denoted as $[G:H]$ and is called the *index* of $H$ in $G$.

@@ -1,0 +1,2 @@
+#### $\defn$ – Complex Conjugate
+Given a [[Complex Numbers|complex number]] $z = a +bi$, $a$ is the *real part* of $z$ and $b$ is the *imaginary part* of $z.$ Note that the imaginary part of $z$ does not include the “$i$,” so the imaginary part of $z$ is [[Real Numbers|real]]. Two complex numbers $z_{1} = a + bi$ and $z_{2} = c + di$ are equal if they have the same real and imaginary parts (i.e., $a = c$ and $b = d$). The *complex conjugate* (or just conjugate) of $z$ is denoted $\ov{z}$ and defined by $\ov{a + bi} = a - bi$.

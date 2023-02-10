@@ -1,0 +1,7 @@
+#### $\thm$ – Int Ext Domains Field
+If $R \subseteq S$ is an [[Integral Element|integral]] extension of domains, then $R$ is a field if and only if $S$ is a field. 
+
+##### *Proof.*
+Suppose that $R$ is a field, and let $s \in S$ be a nonzero element, which is necessarily integral over $R$. The ring $R[s]$ is algebra-finite over $R$ by construction, and integral over $R$ by \Cref{extensions gen by integral elements are integral}. Since $R \subseteq R[s]$ is integral and algebra-finite, it must also be module-finite by \Cref{characterization of mod-fin alg-fin integral}. Since $R$ is a field, this means that $R[s]$ is a finite-dimensional vector space over $R$. Since $R[s] \subseteq S$ is a domain, the map $R[s] \xrightarrow{\, s \,} R[s]$ is injective. Notice that this is a map of finite-dimensional $R$-vector spaces, and thus it must also be surjective. In particular, there exists an element $t \in R[s]$ such that $st = 1$, and thus $s$ is invertible. We conclude that $S$ must be a field.
+
+Now suppose that $S$ is a field, and let $r \in R$. Since $r \in R \subseteq S$, there exists an inverse $r^{-1}$ for $r$ in $S$, which must be integral over $R$. Given any equation of integral dependence for $r^{-1}$ over $R$, say$$(r^{-1})^n + a_{n-1} (r^{-1})^{n-1} + \cdots + a_0 = 0$$with $a_i \in R$, we can multiply by $r^{n-1}$ to obtain$$r^{-1} = -a_{n-1} - \cdots -a_0 r^{n-1} \in R.$$Therefore, $r$ is invertible in $R$, and $R$ is a field.

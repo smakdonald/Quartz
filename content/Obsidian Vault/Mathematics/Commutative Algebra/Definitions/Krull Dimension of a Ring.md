@@ -1,0 +1,2 @@
+#### $\defn$ – Krull Dimension of a Ring
+The *Krull dimension* of a ring $R$ is$$\dim(R) :=  \sup \{d \mid \exists \text{ a strictly increasing chain of prime ideals } P_0 \subsetneq \cdots \subsetneq P_d\}.$$We often call it simply the *dimension* of $R$. Alternatively, $\dim(R)$ is the supremum of the lengths of [[Saturated Chain of Primes|saturated chains of primes]] of $R$.

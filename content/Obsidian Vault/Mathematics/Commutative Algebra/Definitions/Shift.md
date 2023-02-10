@@ -1,0 +1,2 @@
+#### $\defn$ – Shift
+Let $R$ and $M$ be $T$-[[Graded Ring|graded]], and $t\in T$. The *shift* of $M$ by $t$ is the [[Graded Module|graded]] $R$-[[Module|module]] $M(t)$ with graded pieces $M(t)_i:=M_{t+i}$. This is [[Isomorphism|isomorphic]] to $M$ as an $R$-module, when we forget about the graded structure.

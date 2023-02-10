@@ -1,0 +1,5 @@
+#### $\prop$ – K-Linear Action and Direct Summand
+Let $k$ be a field, and $R$ be a [[Polynomial Ring|polynomial ring]] over $k$. Let $G$ be a finite group [[Group Action|acting]] $k$-linearly on $R$. Assume that the [[Ring Characteristic|characteristic]] of $k$ does not divide $|G|$. Then $R^G$ is a [[Direct Summand|direct summand]] of $R$.
+
+##### *Proof.*
+We consider the map $\rho\!: R \to R^G$ given by $$\rho(r)=\frac{1}{|G|} \sum_{g\in G} g\cdot r.$$First, note that the image of this map lies in $R^G$, since acting by $g$ just permutes the elements in the sum, so the sum itself remains the same. We claim that this map $\rho$ is a splitting for the inclusion $R^G \subseteq R$. To see that, let $s\in R^G$ and $r\in R$. We have $$\rho(sr)=\frac{1}{|G|} \sum_{g\in G} g\cdot (sr) =\frac{1}{|G|} \sum_{g\in G} (g\cdot s)(g\cdot r) =\frac{1}{|G|} \sum_{g\in G} s(g\cdot r) = s \frac{1}{|G|} \sum_{g\in G} (g\cdot r) = s \rho(r),$$so $\rho$ is $R^G$-linear, and for $s\in R^G$, $$\rho(s)=\frac{1}{|G|} \sum_{g\in G} g\cdot s=s.$$

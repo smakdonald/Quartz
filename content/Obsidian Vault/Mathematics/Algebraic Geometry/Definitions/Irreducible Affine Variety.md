@@ -1,0 +1,2 @@
+#### $\defn$ – Irreducible Affine Variety
+An [[Affine Variety|affine variety]] is *irreducible* if it cannot be written non-trivially as a union of closed subsets – that is, $X$ is irreducible provided whenever $X = Y\cup Z$ with $Y$ and $Z$ closed subsets of $X$, we have $Y = X$ or $Z = X$.

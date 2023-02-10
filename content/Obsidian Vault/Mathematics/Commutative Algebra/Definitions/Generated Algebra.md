@@ -1,0 +1,2 @@
+#### $\defn$ – Generated Algebra
+Let $S$ be an $R$-[[Algebra|algebra]] with [[Algebra|structure homomorphism]] $\varphi$ and let $\Lambda \subseteq S$ be a set. The $R$-algebra *generated* by a subset $\Lambda$ of $S$, denoted $R[\Lambda]$, is the smallest (with respect to containment) [[Subring|subring]] of $S$ containing $\Lambda$ and $\varphi(R)$. A set of elements $\Lambda \subseteq S$ *generates* $S$ as an $R$-algebra if $S=R[\Lambda]$.

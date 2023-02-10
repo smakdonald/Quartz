@@ -1,0 +1,2 @@
+#### $\defn$ – Equivalence Relation
+Let $A$ be a [[Set|set]], and let $\sim$ be a [[Mathematics/Foundations/Definitions/Relation|relation]] on $A$. The relation $\sim$ is an *equivalence* relation if it is [[Reflexive, Symmetric, Transitive|reflexive]], [[Reflexive, Symmetric, Transitive|symmetric]] and [[Reflexive, Symmetric, Transitive|transitive]].

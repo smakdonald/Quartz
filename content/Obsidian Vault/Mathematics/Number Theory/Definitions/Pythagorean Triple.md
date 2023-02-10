@@ -1,0 +1,2 @@
+#### $\defn$ – Pythagorean Triple
+A *Pythagorean triple* $(a, b, c)$ consists of three [[Mathematics/Number Theory/Definitions/Natural Numbers|natural numbers]] that can form the side lengths of a right triangle (the last of which we assume to be the hypotenuse); i.e., that are constrained by the Pythagorean Theorem to satisfy $a^{2} + b^{2} = c^{2}$.

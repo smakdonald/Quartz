@@ -1,0 +1,2 @@
+#### $\defn$ – Quotient Set
+Let $A$ be a non-empty [[Set|set]], and let $\sim$ be an [[Equivalence Relation|equivalence]] [[Mathematics/Foundations/Definitions/Relation|relation]] on $A$. The *quotient set* of $A$ with respect to $\sim$, denoted $A/\sim$, is the set defined by$$A/\sim\,=\{\,[x]\,\,x\in A\}.$$

@@ -1,0 +1,2 @@
+#### $\defn$ – Colon Ideal
+Let $I$ and $J$ be [[Ideal|ideals]] in a [[Ring|ring]] $R$. The *colon* of $I$ and $J$ is the ideal$$(J : I) :=  \lbrace r \in R \mid rI \subseteq J \rbrace.$$More generally, if $M$ and $N$ are [[Submodule|submodules]] of some $R$-[[Module|module]] $A$, the colon of $N$ and $M$ is$$(N :_R M) :=  \lbrace r \in R \mid rM \subseteq N \rbrace.$$

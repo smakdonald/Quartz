@@ -1,0 +1,2 @@
+#### $\defn$ – Classical Adjoint
+The *classical adjoint* of an $n\times n$ matrix $B=[b_{ij}]$ is the matrix $\mathrm{adj}(B)$ with entries $$\mathrm{adj}(B)_{ij}=(-1)^{i+j} \det(\widehat{B_{{ji}}}),$$where $\widehat{B_{{ji}}}$ is the matrix obtained from $B$ by deleting its $j$th row and $i$th column.

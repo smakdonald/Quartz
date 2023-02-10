@@ -1,0 +1,2 @@
+#### $\defn$ – Contraction
+There is a [[Canonical Map|canonical]] ring homomorphism $$\xymatrix@R=1mm{R \ar[r] & W^{-1}R \\ r \ar@{|->}[r] & \frac{r}{1}}.$$Given an ideal $I$ in $W^{-1}R$, we write $I \cap R$ for its preimage of $I$ in $R$ via the canonical map $\xymatrix{R \ar[r] & W^{-1}R}$. This is the *contraction* of $I$ into $R$ via the canonical map. Given an ideal $I$ in $R$, we write $$W^{-1} I :=  \left\lbrace \frac{a}{w} \mid a \in I, w \in W \rbrace\right.$$

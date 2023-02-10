@@ -1,0 +1,2 @@
+#### $\defn$ – Homogeneous Element
+Let $R$ be a $T$-[[Graded Ring|graded ring]]. An element in one of the summands $R_a$ is said to be *homogeneous* of *degree* $a$; we write $|r|$ or $\deg(r)$ to denote the degree of a homogeneous element $r$.

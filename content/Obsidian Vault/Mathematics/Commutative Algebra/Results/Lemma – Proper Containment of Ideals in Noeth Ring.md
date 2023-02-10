@@ -1,0 +1,5 @@
+#### $\lem$ – Proper Containment of Ideals in Noeth Ring
+Let $R$ be [[Noetherian Ring|noetherian]], $P \subsetneq Q \subsetneq \aprime$ be [[Prime Ideal|primes]], and $f \in \aprime$. Then there is some $Q'$ with $P \subsetneq Q'\subsetneq \aprime$ and $f \in Q'$.
+
+##### *Proof.*
+If $f \in P$, there is nothing to prove, since we can simply take $Q' = Q$. Suppose $f \notin P$. After we quotient out by $P$ and localize at $\aprime$, we may assume that $\aprime$ is the unique maximal ideal and that our ring is a domain. Thus all we need is to find a nonzero prime $Q'$ which is not maximal. Note that by assumption $\height(\aprime) \geqslant 2$. Our assumption implies that $f \neq 0$, and then by the principal ideal theorem \hyperref[Krull's Principal Ideal Theorem]{Krull's Principal Ideal Theorem}, minimal primes of $(f)$ have height one, hence are not maximal nor $0$. We can take $Q'$ to be one of the minimal primes of $f$.

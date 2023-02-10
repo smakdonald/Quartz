@@ -1,0 +1,2 @@
+#### $\defn$ – Prime Spectrum
+Let $R$ be a ring. The *prime spectrum* of $R$, denoted $\Spec(R)$, is the set of [[Prime Ideal|prime ideals]] of $R$. The set of [[Maximal Ideal|maximal ideals]] of $R$ is denoted $\mSpec(R)$.

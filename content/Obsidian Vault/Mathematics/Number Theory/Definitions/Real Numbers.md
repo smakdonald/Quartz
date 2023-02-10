@@ -1,0 +1,2 @@
+#### $\defn$ – Real Numbers
+$\R = \{x : x \text{ is a real number}\}$, the [[Set|set]] of *real numbers*. Too circular? The definition is improved by defining them as limits of convergent sequences of rationals, but that is not particularly crucial to hash out now. As a consequence, the real numbers are closed under taking appropriate limits, whereas the rationals are not.

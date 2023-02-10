@@ -1,0 +1,6 @@
+#### $\thm$ – Smith Normal Form is Unique
+Assume $R$ is a [[Principal Ideal Domain|PID]] and $A \in \Mat_{m \times n}(R)$. Suppose $S \in \Mat_{m \times n}(R)$ can be obtained from $A$ via a sequence of elementary [[Elementary Row & Column Operations|row]] and column operations and that $S$ is diagonal with diagonal entries $d_1, d_2, \dots$ such that $d_1 \mid d_2 \mid \cdots$. Then $$d_1 = \gcd_1(A), d_2 = \frac{\gcd_2(A)}{\gcd_1(A)}, d_3 = \frac{\gcd_3(A)}{\gcd_2(A)}, \cdots.$$In particular, the [[Theorem – Smith Normal Form|Smith Normal Form]] of a matrix is unique up to [[Associates|associates]]. 
+
+###### *Proof.* 
+Recall that for a PID $R$, the gcd of any set of elements is defined to be a generatpr of the ideal they generate. So, Lemma \ref{lem24} implies that $\gcd_k(A) = \gcd_k(S)$ for all $k$. Since $S$ is diagonal, the only non-zero minors of $S$ are those given by indices $1 \leq i_1 < \cdots < i_k \leq m$ and$1 \leq j_1 < \cdots < j_k \leq m$ for which $i_t = j_t$ for all $1 \leq t \leq k$, and moreover such a minor is equal to $d_{i_1} \cdots d_{i_k}$. Since $d_l \mid d_{l+1}$ for all $l$, it follows that $d_{1} \cdots d_k$ divides  $d_{i_1} \cdots d_{i_k}$ for all $1 \leq i_1 <  \cdots < i_k \leq n$. Thus $\gcd_k(S) = d_1 \cdots d_k$, for each $k$, and hence $d_k = \gcd_k(S)/\gcd_{k-1}(S)$ as claimed. 
+***

@@ -1,0 +1,2 @@
+#### $\defn$ – Quadratic Field
+A *quadratic field* is a [[Field|field]] of the form $$\Q[\sqrt{d}] = \{a + b \sqrt{d} : a, b \in\Q\}$$for some square-free [[Integers|integer]] $d \in\Z (d \neq 0, 1)$. We say $K$ is a *complex quadratic field* if $d < 0$ and a *real quadratic field* if $d > 0$.

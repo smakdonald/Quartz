@@ -1,0 +1,2 @@
+#### $\defn$ – Even and Odd
+Let $n$ be an integer. The number $n$ is *even* if there is some integer $k$ such that $n = 2k.$ The number $n$ is *odd* if there is some integer $j$ such that $n =  2 j + 1.$

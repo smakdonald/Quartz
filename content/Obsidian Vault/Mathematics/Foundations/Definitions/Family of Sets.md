@@ -1,0 +1,2 @@
+#### $\defn$ – Family of Sets
+Let $A$ be a [[Set|set]]. The set $A$ is called a *family* of sets if all the [[Element|elements]] of $A$ are sets. The family of sets $A$ is *indexed* by $I$, denoted $A = \{A_{i}\}_{i\in I}$ , if there is a non-empty set $I$ such that there is an element $A_{i}\in A$ for each $i \in I$, and that every element of $A$ equals $A_i$ for exactly one $i\in I$.

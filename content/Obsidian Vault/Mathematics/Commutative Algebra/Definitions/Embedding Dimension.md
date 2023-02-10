@@ -1,0 +1,2 @@
+#### $\defn$ – Embedding Dimension
+The *embedding dimension* of a [[Local Ring|local]] ring $(R, \m)$ is the [[Minimal Number of Generators|minimal number of generators]] of $\m$, $\mu(\m)$. We write $\textrm{embdim}(R) :=  \mu(\m)$ for the embedding dimension of $R$.

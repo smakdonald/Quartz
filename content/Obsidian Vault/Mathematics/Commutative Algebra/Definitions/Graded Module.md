@@ -1,0 +1,2 @@
+#### $\defn$ – Graded Module
+Let $R$ be a $T$-[[Graded Ring|graded ring]] and $M$ an $R$-[[Module|module]]. An $R$-module $M$ is $T$-*graded* if there exists a [[Direct Product, Sum|direct sum]] decomposition of $M$ as an abelian group indexed by $T$:$$M=\bigoplus_{a\in T} M_a \textrm{ such that } R_a M_b \subseteq M_{a+b}$$for all $a,b\in T$.

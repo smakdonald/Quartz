@@ -1,0 +1,2 @@
+#### $\defn$ – Gauss Sum
+Let $p$ be an odd [[Prime|prime]] and $\z$ a [[Root of Unity|primitive]] $p\th$ [[Root of Unity|root of unity]]. Then the *Gauss sum* for $p$ is the sum $$G=G_{p}=\sum_{a=0}^{p-1}\leg ap\z^{a}.$$

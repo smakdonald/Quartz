@@ -1,0 +1,9 @@
+#### $\thm$ – Min Primes Finite
+Over a [[Noetherian Ring|noetherian ring]] $R$, every ideal $I$ has finitely many [[Minimal Prime|minimal primes]], and thus $\sqrt{I}$[^1] is a finite intersection of [[Prime Ideal|primes]].
+
+##### *Proof.*
+Let $S=\{ \text{ideals} \ I \subseteq R \ | \ \Min(I) \ \text{is infinite} \}$, and suppose, to obtain a contradiction, that $S\neq \varnothing$. Since $R$ is noetherian, $S$ has a maximal element $J$, by \Cref{Noetherian properties}. If $J$ was a prime ideal, then $\Min(J) = \{ J \}$ would be finite, by \Cref{min primes of a prime}, so $J$ is not prime. However, $\Min(J)=\Min(\sqrt{J})$, and thus $\sqrt{J} \supseteq J$ is also in $S$, so we conclude that $J$ is radical. Since $J$ is not prime, we can find some $a, b \notin J$ with $ab \in J$. Then $J \subsetneq J + (a) \subseteq \sqrt{J + (a)}$ and $J \subsetneq \sqrt{J + (b)}$. Since $J$ is maximal in $S$, we conclude that $\sqrt{J + (a)}$ and $\sqrt{J + (b)}$ have finitely many minimal primes, so we can write $$\sqrt{J + (a)} = P_1 \cap \cdots \cap P_t \textrm{ and } \sqrt{J + (b)} = P_{t+1} \cap \cdots \cap P_s$$for some prime ideals $P_i$.
+
+Let $f \in \sqrt{J + (a)} \cap \sqrt{J + (b)}$. Some sufficiently high power of $f$ is in both $J + (a)$ and $J + (b)$, so there exist $n, m \geqslant 1$ such that$$f^n \in J + (a) \quad \textrm{ and } \quad f^m \in J + (b).$$Thus$$f^{n+m} \in (J + (a))(J + (b)) \subseteq J^2 + J(a) + J(b) + (\underset{\in J}{ab}) \subseteq J.$$Therefore, $f \in \sqrt{J} = J$. This shows that $$J = \sqrt{J + (a)} \cap \sqrt{J + (b)} = P_1\cap \cdots \cap P_t \cap P_{t+1} \cap \cdots \cap P_s.$$By \Cref{intersection of primes are min primes}, we see that $\Min(J)$ must be a subset of $\{P_1,\dots,P_s\}$, so it is finite.
+
+[^1]: Notation: [[Radical Ideal]]

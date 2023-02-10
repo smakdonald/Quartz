@@ -1,0 +1,5 @@
+#### $\lem$ – UFD height 1
+Let $R$ be a ring and $I$ be an ideal in $R$. If $R$ is a [[Unique Factorization Domain|UFD]], $I$ is a [[Prime Ideal|prime]] of [[Height of an Ideal|height]] one if and only if $I=(f)$ for a [[Mathematics/Modern Algebra/Definitions/Prime|prime]] element $f$. 
+
+##### *Proof.*
+If $I=(f)$ with $f$ irreducible, and $0 \subsetneq P \subseteq I$, then $P$ contains some nonzero multiple of $f$, say $af^n$ with $a$ and $f$ coprime. Since $a \notin I$, $a \notin P$, so we must have $f \in P$, so $P = (f)$. Thus, $I$ has height one. On the other hand, if $I$ is a prime of height one, we claim $I$ contains an irreducible element. Indeed, $I$ is nonzero, so contains some $f \neq 0$, and primeness implies one of the prime factors of $f$ is contained in $I$. Thus, any nonzero prime contains a prime ideal of the form $(f)$, so a height one prime must be of this form.

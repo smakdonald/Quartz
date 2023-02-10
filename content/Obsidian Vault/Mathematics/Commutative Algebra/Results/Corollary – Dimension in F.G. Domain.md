@@ -1,0 +1,4 @@
+#### $\cor$ – Dimension in F.G. Domain
+If $R$ is a finitely generated domain over a field $k$, then $$\dim(R) = \mathrm{trdeg}_k(\mathrm{frac}(R)).$$
+##### *Proof.*
+If $S \subseteq R$ is module-finite, then by \Cref{integral preserved by localization} $\mathrm{frac}(S)\subseteq \mathrm{frac}(R)$ is integral, or equivalently algebraic. Hence $\mathrm{frac}(S)$ and $\mathrm{frac}(R)$ have the same transcendence degree over~$k$. In particular, if $A = k[z_1,\dots,z_d]$ is a Noether normalization for $R$, $$\mathrm{trdeg}_k(\mathrm{frac}(R))= \mathrm{trdeg}_k(\mathrm{frac}(A)) = \mathrm{trdeg}_k(k(z_1,\dots,z_d)) = d = \dim(A) = \dim(R).$$

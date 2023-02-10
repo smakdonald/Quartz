@@ -1,0 +1,2 @@
+#### $\defn$ – Nildradical
+The [[Nilpotent|nilpotent]] elements of a ring $R$ are exactly the elements in every [[Minimal Prime|minimal prime]] of $R$. The radical of $(0)$ is often called the *nilradical* of $R$, denoted $\mathcal{N}(R)$.

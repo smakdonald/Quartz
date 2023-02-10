@@ -1,0 +1,2 @@
+#### $\defn$ – Transcendence Basis
+Let $K\subseteq L$ be an [[Field Extension|extension]] of [[Field|fields]]. A *transcendence* [[Basis and Free Module|basis]] for $L$ over $K$ is a maximal algebraically independent subset of $L$ over $K$.

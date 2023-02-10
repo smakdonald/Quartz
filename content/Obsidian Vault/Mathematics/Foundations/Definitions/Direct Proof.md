@@ -1,0 +1,1 @@
+#### $\defn$ – Direct Proof #empty 

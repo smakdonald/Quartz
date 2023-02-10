@@ -1,0 +1,2 @@
+#### $\defn$ – Set Difference
+Let $A$ and $B$ be [[Set|sets]]. The *difference* (also called the *set difference*) of A and B, denoted $A\setminus B$, is the set defined by$$A\setminus B=\{x|x\in A\text{ and }x\not\in B\}$$

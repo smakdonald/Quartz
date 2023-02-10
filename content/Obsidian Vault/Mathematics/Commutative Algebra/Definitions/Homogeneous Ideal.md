@@ -1,0 +1,2 @@
+#### $\defn$ – Homogeneous Ideal
+An [[Ideal|ideal]] $I$ in a [[Graded Ring|graded ring]] $R$ is called *homogeneous* if it can be [[Generator|generated]] by [[Homogeneous Element|homogeneous]] elements.

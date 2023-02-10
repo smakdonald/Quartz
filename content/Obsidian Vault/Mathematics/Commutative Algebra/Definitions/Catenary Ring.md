@@ -1,0 +1,2 @@
+#### $\defn$ – Catenary Ring
+A [[Ring|ring]] is *catenary* if for every pair of [[Prime Ideal|primes]] $Q \supseteq P$, every [[Saturated Chain of Primes|saturated chain of primes]] $$P = P_0 \subsetneq P_1  \subsetneq \cdots \subsetneq P_n = Q$$has the same length.

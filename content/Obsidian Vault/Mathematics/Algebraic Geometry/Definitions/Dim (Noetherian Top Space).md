@@ -1,0 +1,3 @@
+#### $\defn$ – Dim (Noetherian Top Space)
+The *dimension* of a noetherian topological space $X$, written $$\dm(X) \in \{0, 1, 2, \dots, \infty\},$$is the supremum of the set of all integers $n \geq 0$ such that there exists a [[Chain|chain]] $$
+\emptyset \subsetneq Y_0 \subsetneq Y_1 \subsetneq \cdots \subsetneq Y_n \subseteq X$$with each $Y_i$ an irreducible closed subset of $X$. (The dimension of the empty set is $-\infty$. It is possible that the dimension of a noetherian space is infinite.)

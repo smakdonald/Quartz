@@ -1,0 +1,2 @@
+#### $\defn$ – Unital Ring
+A [[Ring|ring]] $R$ is a *ring with identity* (or *unital* ring) if it is a ring and there exists a multiplicative identity element written as $1$ such that $1 \cdot a = a = a \cdot 1$ for all $a \in R$.

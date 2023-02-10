@@ -1,0 +1,7 @@
+#### $\prop$ – Graded F.G. Algebra
+Let $R$ be an $\N$-[[Graded Ring|graded ring]], and let $f_1,\dots,f_n \in R$ be [[Homogeneous Element|homogeneous elements]] of positive [[Homogeneous Element|degree]]. Then $f_1,\dots,f_n$ generate the ideal $R_+ :=  \bigoplus_{d>0} R_d$ if and only if $f_1,\dots,f_n$ generate $R$ as an $R_0$-[[Algebra|algebra]].
+
+##### *Proof.*
+Suppose $R=R_0[f_1,\dots,f_n]$. Any element $r\in R_+$ can be written as a polynomial expression $r=P(f_1,\dots,f_n)$ for some $P\in R_0[x_1,\dots,x_n]$ with no constant term. Each monomial of $P$ is a multiple of some $x_i$, and thus each term in $r=P(f_1,\dots,f_n)$ is a multiple of $f_i$. Thus $r \in R f_1 + \cdots + R f_n = (f_1,\dots,f_n)$.
+
+To show that $R_+= (f_1,\dots,f_n)$ implies $R=R_0[f_1,\dots,f_n]$, it suffices to show that any homogeneous element $r\in R$ can be written as a polynomial expression in $f_1, \ldots, f_n$ with coefficients in $R_0$. We will use induction on the degree of $r$, with degree $0$ as a trivial base case. For $r$ homogeneous of positive degree, we must have $r\in R_+$, so by assumption we can write $r= a_1 f_1 + \dots + a_n f_n$. Moreover, since $r$ and $f_1, \ldots, f_n$ are all homogeneous, we can choose each coefficient $a_i$ to be homogeneous of degree $|r|-|f_i|$. By the induction hypothesis, each $a_i$ is a polynomial expression in $f_1, \ldots, f_n$, so we are done.

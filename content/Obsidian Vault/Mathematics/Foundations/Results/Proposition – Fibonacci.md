@@ -1,0 +1,3 @@
+#### $\prop$ – Fibonacci #empty 
+
+##### *Proof.*

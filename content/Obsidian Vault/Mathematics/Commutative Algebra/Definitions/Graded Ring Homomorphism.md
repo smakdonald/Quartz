@@ -1,0 +1,2 @@
+#### $\defn$ – Graded Ring Homomorphism
+Let $R$ and $S$ be $T$-[[Graded Ring|graded rings]] with the same grading monoid $T$. A [[Homomorphism|ring homomorphism]] $\varphi:R\to S$ is *graded* or *degree-preserving *if $\varphi(R_a) \subseteq S_{a}$ for all $a \in T$.

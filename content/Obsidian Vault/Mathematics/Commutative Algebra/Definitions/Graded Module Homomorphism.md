@@ -1,0 +1,2 @@
+#### $\defn$ – Graded Module Homomorphism
+Let $M$ and $N$ be $T$-[[Graded Module|graded modules]] over the $T$-[[Graded Ring|graded ring]] $R$. A [[Homomorphism|homomorphism]] of $R$-[[Module|modules]] $\varphi\!: M \to N$ is *graded* of *degree* $d$ if $\varphi(M_a) \subseteq N_{a+d}$ for all $a \in T$. A graded homomorphism of degree $0$ is also called *degree-preserving*.

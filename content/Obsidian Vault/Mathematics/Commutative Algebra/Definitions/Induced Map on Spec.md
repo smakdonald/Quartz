@@ -1,0 +1,2 @@
+#### $\defn$ – Induced Map on $\Spec$
+Each [[Homomorphism|ring homomorphism]] $\varphi\!: R\to S$ induces a map on [[Prime Spectrum|spectra]] $\varphi^*\!:\Spec(S)\to\Spec(R)$ given by $\varphi^*(P)=\varphi^{-1}(P) = P \cap R$.

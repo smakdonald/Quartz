@@ -1,0 +1,2 @@
+#### $\defn$ – Normal Domain
+A *normal domain* is a [[Integral Domain|domain]] $R$ that is [[Integral Closure|integrally closed]] in its [[Field of Fractions|field of fractions]], meaning $R = \overline{R}.$

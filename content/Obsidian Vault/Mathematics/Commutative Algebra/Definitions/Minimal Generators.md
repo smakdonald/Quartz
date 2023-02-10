@@ -1,0 +1,2 @@
+#### $\defn$ – Minimal Generators
+Let $(R,\m)$ be a [[Local Ring|local ring]], and $M$ a finitely generated module. A set of elements $\{m_1,\dots,m_t\}$ is a *minimal generating set* of $M$ if the [[Image|images]] of $m_1,\dots,m_t$ form a [[Basis and Free Module|basis]] for the $R/\m$ [[Vector Space|vector space]] $M/\m M$.

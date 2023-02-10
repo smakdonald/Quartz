@@ -1,0 +1,2 @@
+#### $\defn$ – Power Set
+Let $A$ be a [[Set|set]]. The *power set* of $A$, denoted $P(A)$, is the set defined by$$P(A)=\{X|X\sse A\}.$$That is, $P(A)$ is the set containing all [[Subset|subsets]] of $A$. 

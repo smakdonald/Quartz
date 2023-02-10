@@ -1,0 +1,2 @@
+#### $\cor$ – Relative Nullstellensatz
+Assume $k$ is an algebraically closed field and $W \subseteq \A^n_k$ an affine variety. There is a bijective correspondence between affine subvarieties of $W$ and radical ideals of $A(W)$, given by sending $V \subseteq W$ to the ideal $I(V)/I(W)$ of $A(W)$.

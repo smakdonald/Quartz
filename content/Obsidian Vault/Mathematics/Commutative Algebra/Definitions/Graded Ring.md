@@ -1,0 +1,2 @@
+#### $\defn$ – Graded Ring
+Let $T$ be a monoid; in many examples we will take $T = \N$, which is a monoid since we follow the convention that $0$ is a natural number. A [[Ring|ring]] $R$ is $T$-*graded* if we can write a [[Direct Product, Sum|direct sum]] decomposition of $R$ as an abelian group indexed by $T$,$$R=\bigoplus_{a \geqslant 0} R_a,$$such that $$R_a R_b \subseteq R_{a+b} \quad \textrm{for every } a,b \in T.$$This means that for all $r \in R_a$ and $s \in R_b$, we have $rs\in R_{a+b}$.

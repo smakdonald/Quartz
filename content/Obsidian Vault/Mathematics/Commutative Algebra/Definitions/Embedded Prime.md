@@ -1,0 +1,2 @@
+#### $\defn$ – Embedded Prime
+If $I$ is an [[Ideal|ideal]], then an [[Associated Prime|associated]] [[Prime Ideal|prime]] of $I$ that is not a [[Minimal Prime|minimal]] prime of $I$ is called an *embedded* prime of $I$.

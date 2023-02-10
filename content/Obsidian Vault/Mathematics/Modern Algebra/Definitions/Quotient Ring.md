@@ -1,0 +1,3 @@
+#### $\defn$ – Quotient Ring
+For a two-sided [[Ideal|ideal]] $I$ of $R$,  the set of additive [[Coset|cosets]] modulo $I$ is $R/I=\{r+I : r\in R\}.$ This is an [[Abelian Group|abelian]] [[Group|group]] with respect to addition given by $(r + I) + (s + I) = (r +s ) + I$. The *quotient ring* of $R$ modulo $I$ is the set $R/I$ with addition defined as above and multiplication given by $(r + I) \cdot (s + I) = (rs) + I.$
+***

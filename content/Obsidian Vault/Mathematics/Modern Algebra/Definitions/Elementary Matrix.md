@@ -1,0 +1,6 @@
+#### $\defn$ – Elementary Matrix
+Let $R$ be a [[Commutative Ring|commutative]] [[Ring|ring]] with $1 \neq 0$. An *elementary matrix* over $R$ is an $n \times n$ matrix obtained from $I_n$ by applying a single elementary [[Elementary Row & Column Operations|column]] operation (or, equivalently, a single elementary [[Elementary Row & Column Operations|row]] operation). In more detail:
+1. (Type I) For $r \in R$ and $1 \leq i,j \leq n$ with $i \neq j$, let $E_{i,j}(r)$ be the type I elementary matrix with $1$'s on the diagonal, $r$ in the $(i,j)$ position, and $0$ everywhere else. 
+2. (Type II) For $u \in R^\times$ and $1\leq i \leq n$ let $E_i(u)$ be the type II elementary matrix with $(i,i)$ entry $u$, $(j,j)$ entry $1$ for all $j \neq i$, and $0$ everywhere else. 
+3. Type III) For $1 \leq i,j \leq n$ with $i \neq j$, let $E_{(i,j)}$ be the type III elementary matrix with $1$ in the $(i,j)$ and $(j,i)$ positions and in the $(l,l)$ positions for all $l\not \in \{i,j\}$, and 0 in all other entries.
+***

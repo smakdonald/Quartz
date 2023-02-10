@@ -1,0 +1,2 @@
+#### $\defn$ – Equidimensional Ring
+A [[Ring|ring]] is *equidimensional* if every [[Maximal Ideal|maximal ideal]] has the same finite [[Height of an Ideal|height]], and every [[Minimal Prime|minimal]] [[Mathematics/Modern Algebra/Definitions/Prime|prime]] has the same [[Krull Dimension of a Ring|dimension]].

@@ -1,0 +1,4 @@
+#### $\lem$ – Localization Commutes with Finite Intersection
+Let $M$ be a module, and $N_1,\dots,N_t$ be a finite collection of submodules. Let $W$ be a [[Multiplicatively Closed Set|multiplicative set]]. Then,$$W^{-1} (N_1 \cap \cdots \cap N_t) = W^{-1} N_1 \cap \cdots \cap W^{-1} N_t \subseteq W^{-1}M.$$
+##### *Proof.*
+The containment $W^{-1} (N_1 \cap \cdots \cap N_t) \subseteq  W^{-1} N_1 \cap \cdots \cap W^{-1} N_t$ is clear. Elements of $W^{-1} N_1 \cap \cdots \cap W^{-1} N_t $ are of the form $\frac{n_1}{w_1}= \cdots = \frac{n_t}{w_t}$; we can find a common denominator to realize this in $W^{-1} (N_1 \cap \cdots \cap N_t)$.

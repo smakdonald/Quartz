@@ -1,0 +1,7 @@
+#### $\cor$ – V(I)=V(J) iff Radicals are Equal
+Let $R$ a ring. There is an order-reversing bijection
+$$\{ \text{closed subsets of } \Spec(R) \}\longleftrightarrow\{\text{radical ideals } I\subseteq R\}$$
+In particular, for two ideals $I$ and $J$, we have $V(I)=V(J)$ if and only if $\sqrt{I}=\sqrt{J}$.
+
+##### *Proof.*
+The closed sets of $\Spec(R)$ are precisely the sets of the form $V(I)$ for some ideal $I$. By \Cref{v(I) equal radical}, $V(I) = V(\sqrt{I})$, so the closed sets of $\Spec(R)$ are given by $V(I)$ where $I$ ranges over all radical ideals. We showed in \Cref{properties of V} that the map$$V: \{\text{radical ideals } I\subseteq R\} \longrightarrow \{ \text{closed subsets of } \Spec(R) \}$$is order-reversing. Finally, suppose that $I$ and $J$ are ideals such that $V(I) = V(J)$. By \Cref{spectrum analogue nullstellensatz},$$\sqrt{I} = \bigcap_{P \in V(I)} P = \bigcap_{P \in V(J)} P = \sqrt{J}.$$Conversely, suppose that $\sqrt{I} = \sqrt{J}$. Given a prime $P \in V(I)$, we also have $P \in V(\sqrt{I})$, by \Cref{v(I) equal radical}, and thus$$P \supseteq \sqrt{I} = \sqrt{J} \supseteq J,$$so $P \in V(I)$. Since the same argument applies to show that $V(J) \supseteq V(I)$, we conclude that $V(I) = V(J)$.

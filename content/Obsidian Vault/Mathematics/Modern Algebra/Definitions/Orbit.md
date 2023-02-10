@@ -1,0 +1,3 @@
+#### $\defn$ – Orbit
+Let $G$ be a [[Group|group]] [[Group Action|acting]] on a set $S$. The *equivalence relation* on $S$ induced by the action of $G$, written $\sim_G$, is defined by $s\sim_G s'$ if and only if there is a $g \in G$ such that $s'=g\cdot s$.  The equivalence classes of  $\sim_G$ are called *orbits*, specifically the equivalence class $$\Orb_G(s)=\{g\cdot s \ | \ g\in G\}$$ is the orbit of $S$. The set of equivalence classes with respect to $\sim_G$ is written $S/G$.
+***

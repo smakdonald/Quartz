@@ -1,0 +1,2 @@
+#### $\defn$ – Integers
+$\Z = \{\dots  , -3, -2, -1, 0, 1, 2, 3, \dots \}$, the [[Set|set]] of *integers*, consisting of the [[Mathematics/Number Theory/Definitions/Natural Numbers|natural numbers]], their negatives, and zero. Note that the integers are closed under subtraction (meaning that the difference of two integers is always an integer), whereas the natural numbers are not.

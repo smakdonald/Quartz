@@ -1,0 +1,2 @@
+#### $\thm$ – One Rational Solution Gives Infinite
+Suppose $a$, $b$, $c$ are non-zero [[Rational Numbers|rational numbers]]. If the equation $ax^{2} + by^{2} = c$ has one rational solution, it has infinitely many, and each such solution provides an infinite family of [[Integers|integer]] solutions to the equation $ax^{2} + by^{2} = cz^{2}$.
